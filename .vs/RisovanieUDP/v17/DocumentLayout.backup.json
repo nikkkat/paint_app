@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514E4D08-E397-4920-8DFC-D4717CC4C92D}|ServerUDP\\ServerUDP.csproj|d:\\4sem\\ksis\\lab2\\risovanieudp\\risovanieudp\\serverudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514E4D08-E397-4920-8DFC-D4717CC4C92D}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D337D4EE-A20A-4A49-AEAE-F5751E537B45}|RisovanieUDP\\Client.csproj|d:\\4sem\\ksis\\lab2\\risovanieudp\\risovanieudp\\risovanieudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D337D4EE-A20A-4A49-AEAE-F5751E537B45}|RisovanieUDP\\Client.csproj|solutionrelative:risovanieudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514E4D08-E397-4920-8DFC-D4717CC4C92D}|ServerUDP\\ServerUDP.csproj|D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\serverudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{514E4D08-E397-4920-8DFC-D4717CC4C92D}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D337D4EE-A20A-4A49-AEAE-F5751E537B45}|RisovanieUDP\\RisovanieUDP.csproj|D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\risovanieudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D337D4EE-A20A-4A49-AEAE-F5751E537B45}|RisovanieUDP\\RisovanieUDP.csproj|solutionrelative:risovanieudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\ServerUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerUDP\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\ServerUDP\\Form1.cs",
+              "RelativeToolTip": "ServerUDP\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:38:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\ServerUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerUDP\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\ServerUDP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ServerUDP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:38:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\RisovanieUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "RisovanieUDP\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\RisovanieUDP\\Form1.cs",
+              "RelativeToolTip": "RisovanieUDP\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:34:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\RisovanieUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "RisovanieUDP\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ksis\\lab2\\RisovanieUDP\\RisovanieUDP\\RisovanieUDP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "RisovanieUDP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:30:00.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

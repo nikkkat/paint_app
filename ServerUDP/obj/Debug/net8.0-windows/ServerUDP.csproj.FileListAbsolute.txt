@@ -1,0 +1,16 @@
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\bin\Debug\net8.0-windows\ServerUDP.exe
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\bin\Debug\net8.0-windows\ServerUDP.deps.json
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\bin\Debug\net8.0-windows\ServerUDP.runtimeconfig.json
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\bin\Debug\net8.0-windows\ServerUDP.dll
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\bin\Debug\net8.0-windows\ServerUDP.pdb
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.Form1.resources
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.csproj.GenerateResource.cache
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.AssemblyInfoInputs.cache
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.AssemblyInfo.cs
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.csproj.CoreCompileInputs.cache
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.dll
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\refint\ServerUDP.dll
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.pdb
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ServerUDP.genruntimeconfig.cache
+D:\4sem\ksis\lab2\RisovanieUDP\RisovanieUDP\ServerUDP\obj\Debug\net8.0-windows\ref\ServerUDP.dll
